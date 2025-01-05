@@ -13,7 +13,10 @@ const Footer = () => {
 						&#9825;
 					</span>
 					by &nbsp;
-					<Link href="/" className="underline underline-offset-2">
+					<Link
+						href="https://prakharshukla-ps.netlify.app/"
+						className="underline underline-offset-2"
+					>
 						Prakhar Shukla
 					</Link>
 				</div>
