@@ -63,9 +63,9 @@ const about = () => {
 							<p className="font-medium">
 								Hi, I&apos;m Prakhar Shukla, a web and software developer
 								passionate about building beautiful, functional, and
-								user-centric digital experiences. With over 1 year of experience
-								in the field, I constantly strive to explore innovative
-								approaches to bring creative visions to life.
+								user-centric digital experiences. With over 1+ year of
+								experience in the field, I constantly strive to explore
+								innovative approaches to bring creative visions to life.
 							</p>
 							<p className="my-4 font-medium">
 								I believe design goes beyond aesthetics - it&apos;s about
@@ -95,7 +95,7 @@ const about = () => {
 						<div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
 							<div className="flex flex-col items-end justify-center xl:items-center">
 								<span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-									<AnimatedNumber value={2} />
+									<AnimatedNumber value={3} />
 								</span>
 								<h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
 									company projects
@@ -104,7 +104,7 @@ const about = () => {
 
 							<div className="flex flex-col items-end justify-center xl:items-center">
 								<span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-									<AnimatedNumber value={6} />
+									<AnimatedNumber value={4} />
 								</span>
 								<h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
 									personal projects
