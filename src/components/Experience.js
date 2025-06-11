@@ -58,10 +58,19 @@ const Experience = () => {
 
 				<ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
 					<Details
+						position="Software Developer Intern"
+						company="MyMotoCo AutoTech"
+						companyLink="https://mymotoco.com/"
+						time="Jan 2025 - May 2025"
+						address="Jaipur, Rajasthan"
+						work="Leveraging React, TypeScript, and Shadcn, I developed a custom admin panel inspired by WordPress. In this role, I contributed to designing reusable components and adhered to a component-driven development (CDD) approach. My primary focus was on key dashboard modules, including custom post types, a media manager, and settings configuration."
+					/>
+
+					<Details
 						position="Software Developer"
 						company="Pairroxz Technologies"
 						companyLink="https://pairroxz.com/"
-						time="Jan 2024 - Present"
+						time="Jan 2024 - Jan 2025"
 						address="Jaipur, Rajasthan"
 						work="Collaborated on a project management platform, developing interactive features using React.js and TypeScript. Contributed to a mobile application, enhancing functionality and user experience with React Native and TypeScript."
 					/>
@@ -70,7 +79,7 @@ const Experience = () => {
 						position="Wordpress Developer"
 						company="Adreamjewel"
 						companyLink="https://adreamjewel.com/"
-						time="July 2023 - Dec 2023"
+						time="July 2023 - Present"
 						address="Jaipur, Rajasthan"
 						work="I developed a jewelry e-commerce website from scratch using WordPress. I designed a user-friendly interface, integrated a secure payment gateway, and implemented essential e-commerce features like product management, cart functionality, and order processing, creating a seamless shopping experience."
 					/>
